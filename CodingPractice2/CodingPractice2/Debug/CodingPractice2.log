@@ -1,0 +1,28 @@
+﻿  Main.cpp
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(99): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(128): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(166): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(167): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(168): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(183): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(194): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(232): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(232): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(250): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(262): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(275): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(285): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(306): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(352): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(378): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(467): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(471): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(477): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(478): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(495): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(522): warning C4101: 'result': unreferenced local variable
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(534): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(311): warning C4715: 'findPositionLeft': not all control paths return a value
+c:\users\eric\source\repos\codingpractice2\codingpractice2\main.cpp(319): warning C4715: 'findPositionRight': not all control paths return a value
+  CodingPractice2.vcxproj -> C:\Users\Eric\source\repos\CodingPractice2\Debug\CodingPractice2.exe

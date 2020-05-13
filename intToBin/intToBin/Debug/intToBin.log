@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\eric\source\repos\inttobin\inttobin\main.cpp(22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\eric\source\repos\inttobin\inttobin\main.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  intToBin.vcxproj -> C:\Users\Eric\source\repos\intToBin\Debug\intToBin.exe

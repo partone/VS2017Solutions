@@ -1,0 +1,12 @@
+C:\Users\Eric\source\repos\AutotyperVB\AutotyperVB\bin\Debug\AutotyperVB.exe.config
+C:\Users\Eric\source\repos\AutotyperVB\AutotyperVB\bin\Debug\AutotyperVB.exe
+C:\Users\Eric\source\repos\AutotyperVB\AutotyperVB\bin\Debug\AutotyperVB.pdb
+C:\Users\Eric\source\repos\AutotyperVB\AutotyperVB\bin\Debug\AutotyperVB.xml
+C:\Users\Eric\source\repos\AutotyperVB\AutotyperVB\obj\Debug\AutotyperVB.vbprojAssemblyReference.cache
+C:\Users\Eric\source\repos\AutotyperVB\AutotyperVB\obj\Debug\AutotyperVB.Resources.resources
+C:\Users\Eric\source\repos\AutotyperVB\AutotyperVB\obj\Debug\AutotyperVB.vbproj.GenerateResource.cache
+C:\Users\Eric\source\repos\AutotyperVB\AutotyperVB\obj\Debug\AutotyperVB.vbproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\AutotyperVB\AutotyperVB\obj\Debug\AutotyperVB.exe
+C:\Users\Eric\source\repos\AutotyperVB\AutotyperVB\obj\Debug\AutotyperVB.xml
+C:\Users\Eric\source\repos\AutotyperVB\AutotyperVB\obj\Debug\AutotyperVB.pdb
+C:\Users\Eric\source\repos\AutotyperVB\AutotyperVB\obj\Debug\AutotyperVB.MTPAutotyper.resources

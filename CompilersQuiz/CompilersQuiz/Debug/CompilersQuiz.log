@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\eric\source\repos\compilersquiz\compilersquiz\main.cpp(85): warning C4018: '>=': signed/unsigned mismatch
+c:\users\eric\source\repos\compilersquiz\compilersquiz\main.cpp(100): warning C4551: function call missing argument list
+  CompilersQuiz.vcxproj -> C:\Users\Eric\source\repos\CompilersQuiz\Debug\CompilersQuiz.exe

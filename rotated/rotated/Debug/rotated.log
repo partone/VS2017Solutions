@@ -1,0 +1,5 @@
+﻿  rotated.cpp
+c:\users\eric\source\repos\rotated\rotated\rotated.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\rotated\rotated\rotated.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\rotated\rotated\rotated.cpp(32): warning C4018: '>=': signed/unsigned mismatch
+  rotated.vcxproj -> C:\Users\Eric\source\repos\rotated\Debug\rotated.exe

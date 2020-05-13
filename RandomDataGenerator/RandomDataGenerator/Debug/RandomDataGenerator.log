@@ -1,0 +1,16 @@
+﻿  GenerateSomeMoFoData.cpp
+c:\users\eric\source\repos\randomdatagenerator\randomdatagenerator\generatesomemofodata.cpp(131): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\eric\source\repos\randomdatagenerator\randomdatagenerator\generatesomemofodata.cpp(224): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\eric\source\repos\randomdatagenerator\randomdatagenerator\generatesomemofodata.cpp(237): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\eric\source\repos\randomdatagenerator\randomdatagenerator\generatesomemofodata.cpp(239): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\eric\source\repos\randomdatagenerator\randomdatagenerator\generatesomemofodata.cpp(248): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\eric\source\repos\randomdatagenerator\randomdatagenerator\generatesomemofodata.cpp(250): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\eric\source\repos\randomdatagenerator\randomdatagenerator\generatesomemofodata.cpp(260): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\eric\source\repos\randomdatagenerator\randomdatagenerator\generatesomemofodata.cpp(272): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\eric\source\repos\randomdatagenerator\randomdatagenerator\generatesomemofodata.cpp(274): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\eric\source\repos\randomdatagenerator\randomdatagenerator\generatesomemofodata.cpp(283): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\eric\source\repos\randomdatagenerator\randomdatagenerator\generatesomemofodata.cpp(285): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\eric\source\repos\randomdatagenerator\randomdatagenerator\generatesomemofodata.cpp(303): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\eric\source\repos\randomdatagenerator\randomdatagenerator\generatesomemofodata.cpp(161): warning C4715: 'getQuality': not all control paths return a value
+c:\users\eric\source\repos\randomdatagenerator\randomdatagenerator\generatesomemofodata.cpp(184): warning C4715: 'getNoise': not all control paths return a value
+  RandomDataGenerator.vcxproj -> C:\Users\Eric\source\repos\RandomDataGenerator\Debug\RandomDataGenerator.exe

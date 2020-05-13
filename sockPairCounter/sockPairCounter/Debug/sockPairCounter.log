@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\eric\source\repos\sockpaircounter\sockpaircounter\main.cpp(16): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\eric\source\repos\sockpaircounter\sockpaircounter\main.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\sockpaircounter\sockpaircounter\main.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\sockpaircounter\sockpaircounter\main.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\sockpaircounter\sockpaircounter\main.cpp(67): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+c:\users\eric\source\repos\sockpaircounter\sockpaircounter\main.cpp(136): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  sockPairCounter.vcxproj -> C:\Users\Eric\source\repos\sockPairCounter\Debug\sockPairCounter.exe

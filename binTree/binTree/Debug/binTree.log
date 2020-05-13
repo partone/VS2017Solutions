@@ -1,0 +1,2 @@
+﻿  Main.cpp
+c:\users\eric\source\repos\bintree\bintree\main.cpp(19): error C4700: uninitialized local variable 'newNode' used

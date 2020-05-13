@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\eric\source\repos\comparevecs\comparevecs\main.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\comparevecs\comparevecs\main.cpp(36): warning C4018: '<': signed/unsigned mismatch
+  compareVecs.vcxproj -> C:\Users\Eric\source\repos\compareVecs\Debug\compareVecs.exe

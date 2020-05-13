@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\eric\source\repos\compilersquiz2\compilersquiz2\main.cpp(40): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\eric\source\repos\compilersquiz2\compilersquiz2\main.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\compilersquiz2\compilersquiz2\main.cpp(67): warning C4018: '>=': signed/unsigned mismatch
+c:\users\eric\source\repos\compilersquiz2\compilersquiz2\main.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\compilersquiz2\compilersquiz2\main.cpp(112): warning C4018: '>=': signed/unsigned mismatch
+c:\users\eric\source\repos\compilersquiz2\compilersquiz2\main.cpp(123): warning C4018: '>': signed/unsigned mismatch
+  CompilersQuiz2.vcxproj -> C:\Users\Eric\source\repos\CompilersQuiz2\Debug\CompilersQuiz2.exe

@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\eric\source\repos\parseintcpp\parseintcpp\main.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\parseintcpp\parseintcpp\main.cpp(49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  parseIntCPP.vcxproj -> C:\Users\Eric\source\repos\parseIntCPP\Debug\parseIntCPP.exe

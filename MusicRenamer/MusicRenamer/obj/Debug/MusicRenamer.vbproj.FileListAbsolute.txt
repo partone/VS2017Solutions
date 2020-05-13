@@ -1,0 +1,12 @@
+C:\Users\Eric\source\repos\MusicRenamer\MusicRenamer\bin\Debug\MusicRenamer.exe.config
+C:\Users\Eric\source\repos\MusicRenamer\MusicRenamer\bin\Debug\MusicRenamer.exe
+C:\Users\Eric\source\repos\MusicRenamer\MusicRenamer\bin\Debug\MusicRenamer.pdb
+C:\Users\Eric\source\repos\MusicRenamer\MusicRenamer\bin\Debug\MusicRenamer.xml
+C:\Users\Eric\source\repos\MusicRenamer\MusicRenamer\obj\Debug\MusicRenamer.vbprojAssemblyReference.cache
+C:\Users\Eric\source\repos\MusicRenamer\MusicRenamer\obj\Debug\MusicRenamer.Form1.resources
+C:\Users\Eric\source\repos\MusicRenamer\MusicRenamer\obj\Debug\MusicRenamer.Resources.resources
+C:\Users\Eric\source\repos\MusicRenamer\MusicRenamer\obj\Debug\MusicRenamer.vbproj.GenerateResource.cache
+C:\Users\Eric\source\repos\MusicRenamer\MusicRenamer\obj\Debug\MusicRenamer.vbproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\MusicRenamer\MusicRenamer\obj\Debug\MusicRenamer.exe
+C:\Users\Eric\source\repos\MusicRenamer\MusicRenamer\obj\Debug\MusicRenamer.xml
+C:\Users\Eric\source\repos\MusicRenamer\MusicRenamer\obj\Debug\MusicRenamer.pdb

@@ -1,0 +1,3 @@
+﻿  Server.cpp
+c:\users\eric\desktop\scrabblemania\scrabblemaniaproject\scrabblemania\server.cpp(9): error C2059: syntax error: '='
+c:\users\eric\desktop\scrabblemania\scrabblemaniaproject\scrabblemania\server.cpp(21): error C3861: 'playersLobby': identifier not found

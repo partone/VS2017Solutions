@@ -1,0 +1,8 @@
+﻿  compareSize.cpp
+c:\users\eric\source\repos\otherexercises\otherexercises\comparesize.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\otherexercises\otherexercises\comparesize.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  reallyUnique.cpp
+c:\users\eric\source\repos\otherexercises\otherexercises\reallyunique.cpp(13): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+reallyUnique.obj : error LNK2005: _main already defined in compareSize.obj
+C:\Users\Eric\source\repos\otherExercises\Debug\otherExercises.exe : fatal error LNK1169: one or more multiply defined symbols found

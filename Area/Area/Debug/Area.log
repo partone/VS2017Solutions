@@ -1,0 +1,13 @@
+﻿  Main.cpp
+c:\users\eric\source\repos\area\area\main.cpp(18): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\eric\source\repos\area\area\main.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\area\area\main.cpp(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\eric\source\repos\area\area\main.cpp(51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\eric\source\repos\area\area\main.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\area\area\main.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\area\area\main.cpp(84): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\eric\source\repos\area\area\main.cpp(85): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\eric\source\repos\area\area\main.cpp(86): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\eric\source\repos\area\area\main.cpp(91): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\eric\source\repos\area\area\main.cpp(92): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Area.vcxproj -> C:\Users\Eric\source\repos\Area\Debug\Area.exe

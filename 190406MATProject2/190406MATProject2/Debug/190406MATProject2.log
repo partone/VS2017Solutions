@@ -1,0 +1,28 @@
+﻿  NFAtoDFA.cpp
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(81): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(173): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(183): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(184): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(185): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(216): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(218): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(223): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(246): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(247): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(257): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(258): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(295): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(327): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(338): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(344): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(355): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(133): warning C4715: 'getIndexFromName': not all control paths return a value
+c:\users\eric\source\repos\190406matproject2\190406matproject2\nfatodfa.cpp(315): warning C4715: 'toAlphabet': not all control paths return a value
+  190406MATProject2.vcxproj -> C:\Users\Eric\source\repos\190406MATProject2\Debug\190406MATProject2.exe
